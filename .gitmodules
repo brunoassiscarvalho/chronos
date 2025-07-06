@@ -1,0 +1,18 @@
+[submodule "packages/chronos-patient-api"]
+	path = packages/chronos-patient-api
+	url = https://github.com/brunoassiscarvalho/chronos-patient-api
+[submodule "packages/chronos-patient-web"]
+	path = packages/chronos-patient-web
+	url = https://github.com/brunoassiscarvalho/chronos-patient-web
+[submodule "packages/chronos-professional-web"]
+	path = packages/chronos-professional-web
+	url = https://github.com/brunoassiscarvalho/chronos-professional-web
+[submodule "packages/chronos-professional-api"]
+	path = packages/chronos-professional-api
+	url = https://github.com/brunoassiscarvalho/chronos-professional-api
+[submodule "packages/chronos-shared"]
+	path = packages/chronos-shared
+	url = https://github.com/brunoassiscarvalho/chronos-shared
+[submodule "packages/chronos-interfaces"]
+	path = packages/chronos-interfaces
+	url = https://github.com/brunoassiscarvalho/chronos-interfaces
