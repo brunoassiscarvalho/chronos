@@ -1,0 +1,18 @@
+{
+  "name": "chronos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update": "git submodule update --init --recursive",
+    "prettier": "npx prettier --write .",
+    "git update all": "git submodule foreach --recursive 'git fetch && git pull'"
+  },
+  "author": "",
+  "license": "ISC"
+}
